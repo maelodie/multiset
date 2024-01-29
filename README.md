@@ -1,6 +1,6 @@
 # Multiset
 
-The standard Java library collections offer numerous container interfaces and multiple implementations for each interface. In this project, we will construct a new type of collection: multisets, MultiSet. The next phase in this project will revisit this collection and involve developing tests.
+The standard Java library collections offer numerous container interfaces and multiple implementations for each interface. In this project, we will construct a new type of collection: multisets. The next phase in this project will revisit this collection and involve developing tests.
 
 
 A multiset is an unordered list of elements. Unlike a classic set, an element can appear multiple times in a multiset, and it is important to keep track of the number of occurrences. An interesting application of multisets that we will explore in this project is counting the frequency of word occurrences in a text to determine the most frequent words.
